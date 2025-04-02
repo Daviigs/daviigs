@@ -1,16 +1,64 @@
-## Hi there 👋
+<h1 align="center"> 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> 
+  Olá, eu sou o Davi Miquéias! 🚀
+</h1>
 
-<!--
-**Daviigs/daviigs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=450&lines=Estudante+de+Engenharia+de+Software;Desenvolvedor+Back-End;Apaixonado+por+tecnologia!" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Sobre mim
+💻 Estudante de **Engenharia de Software** na UNINTER  
+🎯 Focado em **desenvolvimento back-end** e **arquitetura de software**  
+⚡ Sempre em busca de soluções escaláveis e eficientes  
+
+---
+
+## 🚀 Tecnologias que domino:
+
+<p align="center">
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+</p>
+
+---
+
+## 📊 Estatísticas do GitHub:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daviigs&layout=compact&langs_count=8&theme=radical&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Daviigs&show_icons=true&theme=radical&hide_border=true" />
+</p>
+
+---
+
+## 🎯 **Meu Melhore Projeto:**
+
+### 1️⃣ **Controle de Estoque API**
+- **Descrição**: Uma API para gerenciamento de produtos e controle de estoque, com funcionalidades como cadastro de produtos, movimentações de estoque e histórico detalhado de operações.
+- **Tecnologias**: Java, Spring Boot, PostgreSQL.
+- **Repositório**: [Controle de Estoque API](https://github.com/Daviigs/controle-produto-estoque-api)
+
+---
+
+## 📈 **Linguagens mais usadas:**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daviigs&layout=compact&langs_count=8&theme=radical&hide_border=true" />
+</p>
+
+---
+
+## 💡 Conecte-se comigo:
+<p align="center">
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Davi%20Miquéias-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/davimiqueias/)
+  [![GitHub](https://img.shields.io/badge/GitHub-Daviigs-black?style=for-the-badge&logo=github)](https://github.com/Daviigs)
+  [![Instagram](https://img.shields.io/badge/Instagram-Daviigs-purple?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/daviigs/)
+</p>
+
+---
+
+⭐ **Se gostou do meu perfil, não esqueça de deixar uma estrela nos meus repositórios!** ⭐
