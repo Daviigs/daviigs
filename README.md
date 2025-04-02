@@ -18,12 +18,14 @@
 
 ## 🚀 Tecnologias que domino:
 
-<p align="center">
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-</p>
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
 
 ---
 
@@ -45,20 +47,13 @@
 
 ---
 
-## 📈 **Linguagens mais usadas:**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daviigs&layout=compact&langs_count=8&theme=radical&hide_border=true" />
-</p>
-
----
 
 ## 💡 Conecte-se comigo:
-<p align="center">
+
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Davi%20Miquéias-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/davimiqueias/)
   [![GitHub](https://img.shields.io/badge/GitHub-Daviigs-black?style=for-the-badge&logo=github)](https://github.com/Daviigs)
   [![Instagram](https://img.shields.io/badge/Instagram-Daviigs-purple?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/daviigs/)
-</p>
-
+  
 ---
 
 ⭐ **Se gostou do meu perfil, não esqueça de deixar uma estrela nos meus repositórios!** ⭐
